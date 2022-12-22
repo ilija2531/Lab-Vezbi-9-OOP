@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vraboteni>
+<Vraboten>
+<Ime>Ilija</Ime>
+<Prezime>Bogdanovski</Prezime>
+<Plata>20000</Plata>
+</Vraboten>
+<Vraboten>
+<Ime>Zdravko</Ime>
+<Prezime>Trajkovski</Prezime>
+<Plata>35000</Plata>
+</Vraboten>
+<Vraboten>
+<Ime>Trajce</Ime>
+<Prezime>Srbinovski</Prezime>
+<Plata>40000</Plata>
+</Vraboten>
+</Vraboteni>
